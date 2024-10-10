@@ -1,6 +1,6 @@
 <!-- <link rel="shortcut icon" type="image/x-icon" href="icon.png"> -->
 
-[![Banner](/img/banner.png)]
+![Banner](/img/banner.png)
 
 # Welcome to the CHI 2025 Workshop on **Designing Tangible Interaction with State-of-the-Art Computer Vision**
 
